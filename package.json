@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/krishnapriya-21/Food-Utopia-UI",
-
+  "homepage": "https://krishnapriya-21.github.io/Food-Utopia-UI",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
